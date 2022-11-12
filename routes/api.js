@@ -22,8 +22,8 @@ var lolkill = db.get("lolkill");
 	console.log('')
 }
 
-var creator = 'Its Me Lihh' // ubah jadi nama lu
-const listkey = ["LihhXd","LihhXdBeta","ZeeoneOfc"]; // ubah apikey nya, tambah aja klo mau
+var creator = 'KrisHosting' // ubah jadi nama lu
+const listkey = ["Krisbotz","kris","KrisHosting"]; // ubah apikey nya, tambah aja klo mau
 
 var axios = require('axios');
 var qs = require('qs');
